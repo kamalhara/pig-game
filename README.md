@@ -16,6 +16,10 @@ A fun and interactive 2-player dice game built using HTML, CSS, and JavaScript. 
 - CSS3
 - JavaScript (ES6)
 
+##🌐Live website
+
+-https://kamalhara.github.io/pig-game/
+
 ## 📁 Project Structure
 
 pig-game/
